@@ -11,3 +11,10 @@ Everything Milvus
 ## Deployments
 
 * https://www.sitepoint.com/ai-powered-search-engine-with-milvus-vector-database-on-vultr/
+
+## Edge Vector Database
+
+* https://pimylifeup.com/raspberry-pi-ollama/
+* https://www.reddit.com/r/ollama/comments/1919a0e/i_ran_advanced_llms_on_the_raspberry_pi_5/
+* https://www.kevsrobots.com/blog/ollama
+* https://itsfoss.com/raspberry-pi-ollama-ai-setup/
